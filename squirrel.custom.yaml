@@ -1,0 +1,16 @@
+patch:
+  # stacked | linear | tabled 候选项排列方向(如果希望水平，设置linear)
+  style/candidate_list_layout: linear
+  
+  # 覆写亮色模式皮肤为 mint_light_green(碧皓青)
+  "style/color_scheme": mint_light_green
+  # 覆写暗色模式皮肤为 mint_light_green(碧月青)
+  "style/color_scheme_dark": mint_dark_green
+
+  "preset_color_schemes/mint_light_green/text_color": 0x1A1A1A
+  "preset_color_schemes/mint_light_green/candidate_text_color": 0x1A1A1A
+
+  # 暗色模式：文字颜色改深 (降低白色的亮度)
+  "preset_color_schemes/mint_dark_green/text_color": 0xffffff
+  "preset_color_schemes/mint_dark_green/candidate_text_color": 0xffffff
+

@@ -1,0 +1,9 @@
+patch:
+  ascii_composer:
+    switch_key:
+      Shift_L: commit_code
+      Shift_R: commit_code
+
+  # --- 新增：按 Shift 键将拼音转换为英文上屏 ---
+  "ascii_composer/switch_key/Shift_L": commit_code
+  "ascii_composer/switch_key/Shift_R": commit_code
