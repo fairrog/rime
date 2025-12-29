@@ -5,7 +5,7 @@ patch:
   # 覆写亮色模式皮肤为 mint_light_green(碧皓青)
   "style/color_scheme": mint_light_green
   # 覆写暗色模式皮肤为 mint_light_green(碧月青)
-  "style/color_scheme_dark": mint_dark_green
+  "style/color_scheme_dark": mint_light_green
 
   "preset_color_schemes/mint_light_green/text_color": 0x1A1A1A
   "preset_color_schemes/mint_light_green/candidate_text_color": 0x1A1A1A
